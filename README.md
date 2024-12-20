@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/juedsay/" target="_blank">
   <img src="https://github.com/user-attachments/assets/f56be45d-990c-4c5d-ac45-9aa1041ca7fa" alt="Card header"/>
   </a>
-</div>
+<!-- </div>
 <div align="right">
   <img align="right" width="30%" src="https://github.com/user-attachments/assets/91903e78-cd08-4b8e-9263-171b821f3ebb">
-</div>
+</div> -->
