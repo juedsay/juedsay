@@ -3,15 +3,48 @@
 </div>
 <div>
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Julian Simon</h1>
+</div>  
+
+### About Me:
+
+I am a Software Test Engineer from Argentina.
+- :telescope: I’m working as a QA Test Engineer at Ualki
+- :seedling: I am continuously in search of new experiences and challenges to advance my professional development.
+- :zap: During my free time, I prioritize upskilling in software development, with a strong focus on software quality assurance. I also enjoy unwinding by playing video games and allocating time for reading.
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Julian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juedsay)
+
+---
+
+### :hammer_and_wrench: Languages and Dev Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" **alt="NextJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" **alt="Visual Studio Code" width="40" height="40"/>
+  
+  
 </div>
-<div align="center">
-  <a href="https://www.linkedin.com/in/juedsay/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/f56be45d-990c-4c5d-ac45-9aa1041ca7fa" alt="Card header"/>
-  </a>
-<!-- </div>
-<div align="right">
-  <img align="right" width="30%" src="https://github.com/user-attachments/assets/91903e78-cd08-4b8e-9263-171b821f3ebb">
-</div> -->
+
+### 🐞 Testing Tools :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" **alt="Cucumber" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" **alt="Selenium" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="CypressIO" **alt="CypressIO" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" **alt="Pytest" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
+
+</div>
+
+---
 <div align="center">
   <table style="border: 2px solid black; box-shadow: 2px 2px 2px #AAA; width: 647px; font-family: sans-serif;">
     <tr>
@@ -61,4 +94,11 @@
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+### :fire: My Stats :
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juedsay&layout=compact&theme=vision-friendly-dark" width="400"/>
 </div>
